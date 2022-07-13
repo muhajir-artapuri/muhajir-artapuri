@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @muhajir-artapuri
+- 👀 I’m interested in React JS & Flutter
+- 🌱 I’m currently learning React JS
+- 📫 How to reach me @muhajir.apk on Instagram
